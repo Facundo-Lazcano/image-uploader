@@ -1,0 +1,48 @@
+.title {
+    font-weight: 500;
+    font-size: 25px;
+    margin: 5px;
+}
+
+.subtitle {
+    font-weight: 300;
+    color: #333232;
+    margin-bottom: 15px;
+    font-size: 12px;
+}
+
+.image-border {
+    width: 90%;
+    padding: 2rem 1rem;
+    margin: 0 4rem;
+    border: 1px dashed #97BEF4;
+    border-radius: 10px;
+    display: block;
+    justify-content: space-around;
+    background-color: #F6F8FB;
+}
+
+.image-border img {
+    margin-bottom: 2rem;
+}
+
+p {
+    font-size: 12px;
+    color: #BDBDBD;
+    font-weight: 600;
+}
+
+#file {
+    display: none;
+}
+
+.choose-file {
+    padding: 5px;
+    border-radius: 10px;
+    background-color: #2F80ED;
+    color: #fff;
+}
+
+.choose-file:hover {
+    cursor: pointer;
+}
